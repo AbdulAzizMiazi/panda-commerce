@@ -1,0 +1,12 @@
+.container{
+    margin-bottom: 100px;
+}
+.form-inline{
+    margin-left: 60px;
+}
+.form-control{
+    padding: 0px 90px;
+}
+.navbar-nav li{
+    margin-right: 22px;
+}
